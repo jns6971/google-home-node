@@ -1,0 +1,23 @@
+{
+  "name": "google-home-node",
+  "version": "1.0.0",
+  "description": "Custom Google Home Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jns6971/google-home-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jns6971/google-home-node/issues"
+  },
+  "homepage": "https://github.com/jns6971/google-home-node#readme",
+  "dependencies": {
+    "google-assistant": "^0.7.0"
+  }
+}
